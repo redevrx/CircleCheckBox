@@ -1,7 +1,9 @@
 name: circle_checkbox
 description: Make Material CheckBox Circle
 version: 0.0.2+1
-homepage:
+homepage: https://www.facebook.com/REDEVRX
+repository: https://github.com/redevRx/CircleCheckBox
+author: Kasem Saikhuedong<redev.rx@gmail.com>
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
