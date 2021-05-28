@@ -135,7 +135,7 @@ CircleCheckboxListTile(
 
 ### Example
 <center>
-<a href="https://github.com/redevRx/FlutterParalax/tree/dev">
- <img src="https://github.com/redevRx/FlutterParalax/blob/dev/demo.gif?raw=true" width="200"/>
+<a href="https://github.com/redevRx/CircleCheckBox">
+ <img src="https://github.com/redevRx/CircleCheckBox/blob/main/Screenshot_1622192408.png?raw=true width="200"/>
 </a>
 </center>
